@@ -1,0 +1,11 @@
+* {
+  all: unset;
+  display: flex;
+}
+head, meta, link, script, style, template {
+  display: none;
+}
+
+.grow {
+  flex: 1;
+}

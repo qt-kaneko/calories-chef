@@ -1,0 +1,12 @@
+{
+  "name": "Calories Chef",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "size": "500x500"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen"
+}
